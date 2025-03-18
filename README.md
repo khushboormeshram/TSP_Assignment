@@ -1,4 +1,3 @@
 # TSP_Assignment
 
-# Khushboo Meshram
-# 202301100027@mitaoe.ac.in
+# Todo App with MySql
